@@ -10,9 +10,8 @@ The program creates a structured 10×10 grid of colorful dots inspired by Damien
 
 ## 🖼️ Project Preview
 
-![Hirst Painting Output](Hirst-Painting-Output.png)
+![Hirst Painting Output](OutputScreenshot.png)
 
-> *(Add a screenshot of your turtle output and save it as `screenshot.png` in the repository folder.)*
 
 ---
 
