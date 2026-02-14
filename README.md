@@ -1,7 +1,18 @@
 # 🎨 Hirst Dot Painting Generator
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A Python Turtle project that generates a Hirst-style dot painting using random RGB colors.  
 The program creates a structured 10×10 grid of colorful dots inspired by Damien Hirst’s spot paintings.
+
+---
+
+## 🖼️ Project Preview
+
+![Hirst Painting Output](Hirst-Painting-Output.png)
+
+> *(Add a screenshot of your turtle output and save it as `screenshot.png` in the repository folder.)*
 
 ---
 
@@ -28,9 +39,10 @@ The program creates a structured 10×10 grid of colorful dots inspired by Damien
 
 ```bash
 .
-├── main.py        # Main program file
-├── image.jpg      # Reference image for color extraction
-└── README.md      # Project documentation
+├── main.py                # Main program file
+├── image.jpg              # Reference image for color extraction
+├── OutputScreenshot.png   # Output preview image
+└── README.md              # Project documentation
 ```
 
 ---
